@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Neno04/my-model.svg?branch=master)](https://travis-ci.org/Neno04/my-model)
+
 # [`my-model`]
 > Simple project description.
 
